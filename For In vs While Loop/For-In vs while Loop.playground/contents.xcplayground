@@ -4,5 +4,6 @@
         <page name='Perfomance Test'/>
         <page name='For In Working'/>
         <page name='While Loop Working'/>
+        <page name='Remove duplicate example'/>
     </pages>
 </playground>
